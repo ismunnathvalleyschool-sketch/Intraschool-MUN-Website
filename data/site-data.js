@@ -27,11 +27,6 @@ window.ISMUN_DATA = {
       "name": "Arvika Patil",
       "photo": ""
     },
-    {
-      "role": "USG \u2014 Technology and Design",
-      "name": "Bhavya Mutha",
-      "photo": ""
-    }
   ],
   "committees": [
     {
