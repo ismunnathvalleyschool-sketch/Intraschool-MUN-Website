@@ -8,7 +8,7 @@ window.ISMUN_DATA = {
     "dates": "24th & 25th October 2026",
     "tagline": "READ, THINK, QUESTION, CHANGE.",
     "registrationUrl": "https://forms.google.com/REPLACE_WITH_REGISTRATION_FORM",
-    "contactEmail": "REPLACE_WITH_MUN_EMAIL",
+    "contactEmail": "ismunnathvalleyschool.com",
     "whatsappUrl": "https://wa.me/91XXXXXXXXXX"
   },
   "secretariat": [
@@ -54,13 +54,13 @@ window.ISMUN_DATA = {
     },
     {
       "name": "UNODC",
-      "type": "Joint Crisis Comittee",
+      "type": "Office on Drugd and Crime",
       "agenda": "Combating the Online Trafficking of Synthetic Opioids and Disrupting Anonymized Financial Networks on the Darknet.",
       "guide": "#"
     },
     {
       "name": "UNSRA",
-      "type": "Joint Crisis Comittee",
+      "type": "Space Research Association",
       "agenda": "Mitigating the Proliferation of Orbital Debris, Securing Uncontrolled Satellites, and Preventing the Weaponization of Space Infrastructure.",
       "guide": "#"
     },
