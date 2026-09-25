@@ -7,7 +7,7 @@ document.getElementById("wa-link").href = data.conference.whatsappUrl;
 
 const committeeGrid = document.getElementById("committee-grid");
 committeeGrid.innerHTML = data.committees.map(c => `
-  <article class="committee-card reveal">
+  <article class="committee-card reveal" style="--accent:${c.color};">
     <small>${c.type}</small><h3>${c.name}</h3>
     <p><strong>Agenda:</strong> ${c.agenda}</p>
     <a href="${c.guide}" target="_blank">BACKGROUND GUIDE →</a>
